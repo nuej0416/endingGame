@@ -6,7 +6,7 @@ let button = document.querySelector('button');
 let result = document.querySelectorAll('div');
 result1 = result[result.length-1];
 
-word.textContent = "다이어리";
+word.textContent = "게임만들기";
 
 form.addEventListener('submit', function (e) {
     e.preventDefault();
