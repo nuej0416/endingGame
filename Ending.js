@@ -23,7 +23,7 @@ form.addEventListener('submit', function (e) {
 });
 
 
-//조건문 word 와 answer이 같으면 진행, 다르면 게임 끝
+//조건문 word 와 answer이 같으면 진행, 다르면 게임 끝이난다.
 // while(true) {
 //     let answer = prompt(word);
 //     if (word[word.length - 1] === answer[0]) {
